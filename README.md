@@ -2,4 +2,4 @@
 
 ## sit323-2025-prac10p - Monitoring and Visibility
 
-Please refer to the PDF file submitted to view the steps completed
+Please refer to the PDF file uploaded to view the steps completed
